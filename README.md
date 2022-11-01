@@ -22,12 +22,13 @@ También tuvimos un procesamiento de big data con la librería MRJob.
 
 En este repositorio solo están los archivos en los que trabaje yo, pero fuimos un equipo de 8 y un mentor.
 
-Utilizamos Jira para las metodologías ágiles Scrum con sprints de una semana de duración, haciendo las respectivas ceremonias segun correspondía: Planning, Daily, Review y Retro. 
+**Utilizamos Jira para las metodologías ágiles Scrum con sprints de una semana de duración, haciendo las respectivas ceremonias segun correspondía: Planning, Daily, Review y Retro.**
 
 
+El contenido de cada carpeta es:
 
 
-- Airflow: DAG que ejecuta un ETL cada hora y un DAG dinámico.
+- Airflow: DAGs que ejecutan un ETL cada hora.
 - Big_data: archivos que procesan big_data con la libreria MRJob.
 - files: archivos raw y modificados que han sido extraidos o modificados.
 - src: carpeta que contienes los archivos .py y los archivos .sql
